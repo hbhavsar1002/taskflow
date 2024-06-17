@@ -14,6 +14,12 @@
   list-style: none;
 }
 
+html,body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 .light {
   background-color: #ffffff;
   transition: all 500ms;
@@ -35,6 +41,7 @@
     hsla(191, 75%, 60%, 1) 0%,
     hsla(248, 87%, 36%, 1) 100%
   );
+  background-repeat: no-repeat;
   transition: all 500ms;
 }
 .gTwo {
@@ -63,6 +70,7 @@
       #00c9b1 100%
     );
   background-blend-mode: soft-light, screen, darken, normal;
+  background-repeat: no-repeat;
   transition: all 500ms;
 }
 

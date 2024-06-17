@@ -17,22 +17,22 @@
   flex-grow: 1;
 }
 
-.showTask .title {
+.title {
   font-size: 18px;
   font-weight: 600;
   user-select: none;
 }
 
-.showTask .count {
+.count {
   background-color: #dfdfdf;
   color: #525252;
-  padding: 5px 10px;
-  border-radius: 50%;
+  padding: 5px 12px;
+  border-radius: 100%;
   margin-left: 10px;
   user-select: none;
 }
 
-.showTask .clearAll {
+.clearAll {
   background-color: #0f6af3;
   color: #ffffff;
   padding: 5px 10px;
@@ -42,7 +42,7 @@
   font-size: 16px;
 }
 
-.showTask .clearAll:hover {
+.clearAll:hover {
   background-color: #1061db;
 }
 
