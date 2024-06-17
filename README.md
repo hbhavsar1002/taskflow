@@ -1,5 +1,5 @@
 # TaskFlow
-This is a react.js app which helps as a task manager.
+This is a React.js application which helps in managing tasks.
 ## Prerequisites
 
 ### Install Node JS
@@ -10,6 +10,8 @@ Install create-react-app npm package globally. This will help to easily run the 
 
 ```bash
 npm install -g create-react-app
+```
+
 ## Cloning and Running the Application in local
 
 Clone the project into local
