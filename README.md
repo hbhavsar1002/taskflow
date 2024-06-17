@@ -14,7 +14,11 @@ npm install -g create-react-app
 
 ## Cloning and Running the Application in local
 
-Clone the project into local
+Clone the project into local directory
+
+```bash
+git clone https://github.com/hbhavsar1002/taskflow.git
+```
 
 Install all the npm packages. Go into the project folder and type the following command to install all npm packages
 
